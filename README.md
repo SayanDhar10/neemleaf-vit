@@ -1,6 +1,6 @@
 <h1 align="center"> 🌿 Groundnut Leaf Disease Detection Using Vision Transformer in PyTorch </h1>
 
-This repository provides a complete pipeline for detecting groundnut (peanut) leaf diseases using Vision Transformer (ViT) models. The solution is developed using PyTorch and fine-tuned on a custom high-resolution dataset of healthy and diseased groundnut leaves collected from West Bengal, India.
+This repository provides a complete pipeline for detecting groundnut (peanut) leaf diseases using Vision Transformer (ViT) models. The solution is developed using PyTorch and fine-tuned on a custom high-resolution dataset of healthy and diseased groundnut leaves collected from West Bengal.
 
 ## 🧾 Project Overview
 <div align="center">
